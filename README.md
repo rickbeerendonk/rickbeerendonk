@@ -33,7 +33,7 @@
 
 ## Social Media
 
-- Mastodon: <a rel="me" href="https://mstdn.social/@rickbeerendonk">https://mstdn.social/@rickbeerendonk</a>
-- Twitter: https://twitter.com/rickbeerendonk
+- <a rel="me" href="https://hachyderm.io/@rickbeerendonk">Mastodon</a>
+- [Twitter](https://twitter.com/rickbeerendonk)
 
 ![GitHub statistics](https://github-readme-stats.vercel.app/api?username=rickbeerendonk&show_icons=true)
