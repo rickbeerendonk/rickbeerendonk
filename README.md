@@ -10,12 +10,12 @@
 - [Vue, Vuex & Router](https://www.glasspaper.no/kurs/vue.js-vuex--router-course/)
 - [Svelte & SvelteKit](https://www.glasspaper.no/kurs/svelte--svelte-kit/)
 - [Blazor](https://www.glasspaper.no/kurs/blazor---web-applications-with-c/)
+- [Kotlin](https://www.glasspaper.no/kurs/kotlin-development/)
 - Sometimes [Angular](https://www.glasspaper.no/kurs/angular-14-development/)
 - Sometimes [ASP.NET Core](https://www.glasspaper.no/kurs/asp.net-core-development-/)
 - Sometimes [C#](https://www.glasspaper.no/kurs/c-10-development-and-.net-6/)
 - Sometimes [C# Advanced](https://www.glasspaper.no/kurs/c-10-advanced-development/)
 - Sometimes [Implementing REST Services using Web API](https://www.glasspaper.no/kurs/implementing-rest-services-using-web-api/)
-- Sometimes [Kotlin](https://www.glasspaper.no/kurs/kotlin-development/)
 - Soon: SolidJS
 
 🇩🇰 Teknologisk Institut
