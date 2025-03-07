@@ -5,13 +5,14 @@
 🇳🇴 Glasspaper
 
 - [Modern Web Development: HTML, CSS, asynchronous JavaScript and PWA](https://www.glasspaper.no/kurs/modern-web-development-html-css-asynchronous-javascript-and-pwa/)
-- [React, Redux & Router](https://www.glasspaper.no/kurs/react-redux--router-with-hooks-hands-on/)
+- [React 19 (including NextJS)](https://www.glasspaper.no/kurs/react-19-including-nextjs-hands-on/)
 - [React Advanced](https://www.glasspaper.no/kurs/react-hooks-concurrency-performance-maintainability--tests/)
 - [Vue, Vuex & Router](https://www.glasspaper.no/kurs/vue.js-vuex--router-course/)
 - [Svelte & SvelteKit](https://www.glasspaper.no/kurs/svelte--svelte-kit/)
 - [Blazor](https://www.glasspaper.no/kurs/blazor---web-applications-with-c/)
 - [Kotlin](https://www.glasspaper.no/kurs/kotlin-development/)
-- Sometimes [Angular](https://www.glasspaper.no/kurs/angular-14-development/)
+- [Modern Angular with Signals](https://www.glasspaper.no/kurs/modern-angular-with-signals-hands-on/)
+- [Advanced Angular with Signals](https://www.glasspaper.no/kurs/advanced-angular-with-signals/)
 - Sometimes [ASP.NET Core](https://www.glasspaper.no/kurs/asp.net-core-development-/)
 - Sometimes [C#](https://www.glasspaper.no/kurs/c-10-development-and-.net-6/)
 - Sometimes [C# Advanced](https://www.glasspaper.no/kurs/c-10-advanced-development/)
@@ -34,6 +35,6 @@
 ## Social Media
 
 - <a rel="me" href="https://hachyderm.io/@rickbeerendonk">Mastodon</a>
-- [Twitter](https://twitter.com/rickbeerendonk)
+- [BlueSky](https://bsky.app/profile/rickbeerendonk.bsky.social)
 
 ![GitHub statistics](https://github-readme-stats.vercel.app/api?username=rickbeerendonk&show_icons=true)
